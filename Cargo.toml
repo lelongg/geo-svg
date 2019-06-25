@@ -1,0 +1,9 @@
+[package]
+name = "geo-svg"
+version = "0.1.0"
+authors = ["Gérald Lelong <gerald.lelong@easymov.fr>"]
+edition = "2018"
+
+[dependencies]
+geo = "0.12.2"
+svg_fmt = "0.4.1"
